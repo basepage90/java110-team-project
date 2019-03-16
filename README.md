@@ -1,11 +1,5 @@
-# java110-team-project
+# java110-team-project : HARU
 
-## team-project (tag: v0.1)
+하루 인트로    : https://www.youtube.com/watch?v=mkYRxbN-vK0
 
-- UI prototype
-- use case 
-    - 유스케이스 다이어그램
-    - 유스케이스 명세서
-- DB 모델링 1차
-
-## team-project (Initial Commit)
+하루 시연 연상 : https://www.youtube.com/watch?v=jAq79X8-NwM&t=106s
